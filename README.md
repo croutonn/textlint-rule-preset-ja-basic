@@ -17,7 +17,7 @@ yarn add -D @croutonn/text-lint-rule-preset-ja-tech-loose
 ```json
 {
   "rules": {
-    "preset-ja-tech-loose": true
+    "@croutonn/preset-ja-tech-loose": true
   }
 }
 ```
