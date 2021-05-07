@@ -1381,10 +1381,10 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "^1.2.5"
 
-mocha@^8.3.2:
-  version "8.3.2"
-  resolved "https://registry.yarnpkg.com/mocha/-/mocha-8.3.2.tgz#53406f195fa86fbdebe71f8b1c6fb23221d69fcc"
-  integrity sha512-UdmISwr/5w+uXLPKspgoV7/RXZwKRTiTjJ2/AC5ZiEztIoOYdfKb19+9jNmEInzx5pBsCyJQzarAxqIGBNYJhg==
+mocha@^8.4.0:
+  version "8.4.0"
+  resolved "https://registry.yarnpkg.com/mocha/-/mocha-8.4.0.tgz#677be88bf15980a3cae03a73e10a0fc3997f0cff"
+  integrity sha512-hJaO0mwDXmZS4ghXsvPVriOhsxQ7ofcpQdm8dE+jISUOKopitvnXFQmpRR7jd2K6VBG6E26gU3IAbXXGIbu4sQ==
   dependencies:
     "@ungap/promise-all-settled" "1.1.2"
     ansi-colors "4.1.1"
@@ -2408,7 +2408,7 @@ textlint-rule-period-in-list-item@^0.3.2:
   dependencies:
     check-ends-with-period "^1.0.1"
 
-textlint-rule-preset-ja-spacing@^2.0.2:
+textlint-rule-preset-ja-spacing@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-preset-ja-spacing/-/textlint-rule-preset-ja-spacing-2.1.1.tgz#e093875220a3194108f735f723bf3dfb298f71d7"
   integrity sha512-ihc091nj5SR0bvL4zMwPr3+vcfUlk+TudRscs7txsiBD/XrfC6fO5nn6+7tqEHCxquit0j9uM3I80FFtxnwFKQ==
